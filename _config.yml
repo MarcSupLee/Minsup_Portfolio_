@@ -1,22 +1,22 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Minsup Lee
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Min Sup Lee # add your name
+author-img: minsup_lee.jpeg # add your photo
+about-author: I am a data scientist focusing on Predictive Analytics and NLP Applications. Always hungry to learn more. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: MarcSupLee # add your Github handle
-social-linkedin: https://www.linkedin.com/in/minsup-marc-lee/ # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: minsup-marc-lee # add your Linkedin handle
+social-email: lee554@illinois.edu # add your Email address
 
 # Disqus
 discus-identifier: sup # add your discus identifier
