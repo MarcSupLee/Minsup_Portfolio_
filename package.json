@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A starter project for Jekyll",
   "main": "index.js",
-  "repository": "https://marcsuplee.github.io/Minsup_Portfolio/",
+  "repository": "https://marcsuplee.github.io/Minsup_Portfolio_/",
   "author": "Min Sup Lee",
   "license": "MIT",
   "dependencies": {
