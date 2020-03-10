@@ -5,7 +5,7 @@ date: 2020-03-09 13:23:00 -0400
 description: Resume walk-through # Add post description (optional)
 img: minsup_lee2.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Data Scientist, Industrial Engineering, Statistics]
+tags: [Data Scientist, Industrial Engineering, Statistics, Predictive Analytics, ML/DL, NLP]
 ---
 
 I am a Data Scientist working at an Analytics Consulting company. My skillset mainly focuses on the predictive analytics (Demand Forecasting and Revenue Optimization), but also covers the Manufacturing Process Optimization and Natural Language Processing Applications, such as custom word embedding, topic modeling, and speech recognition.
